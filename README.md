@@ -47,9 +47,9 @@ The API runs on a free service that sleeps when idle, so the first request can t
 
 | User | Email | Password | What it shows |
 | --- | --- | --- | --- |
-| Platform user (System Admin) | `divyamrauthan002@gmail.com` | `Divyam@123` | Creates and manages organizations |
-| Network Admin | `divyamrauthan7@gmail.com` | `Divyam@123` | Full access inside one organization |
-| Support user | `supportuser+sila@gmail.com` | `SupportUser@123` | Full-access support account inside the organization |
+| Platform user (System Admin) | `admin@example.com` | `Divyam@123` | Creates and manages organizations |
+| Network Admin | `orgadmin@example.com` | `Divyam@123` | Full access inside one organization |
+| Support user | `support@example.com` | `SupportUser@123` | Full-access support account inside the organization |
 
 ---
 
